@@ -9,3 +9,4 @@ Key highlights:
 
 PBIX file Link:https://drive.google.com/file/d/139hoB1PdtclkUTW-Ty5RoqhIBlcKooEv/view?usp=sharing
 PDF Link:https://drive.google.com/file/d/1EkXl-LhvoDvpiFyBnL3HziJqfqAQLF2q/view?usp=sharing
+Canva :https://www.canva.com/design/DAF4F6Bnx9k/zDOHH3p445CJdTCh6O3h1A/edit?utm_content=DAF4F6Bnx9k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
