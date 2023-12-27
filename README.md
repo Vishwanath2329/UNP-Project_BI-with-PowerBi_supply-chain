@@ -1,4 +1,4 @@
-# UNP-Project_BI-with-PowerBi_supply-chain
+# UNP-Project_BI-with-PowerBI_Supply-Chain
 
 Completed this project of my BI with PowerBI with united of professionals(UNP)
 
