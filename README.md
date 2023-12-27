@@ -7,6 +7,6 @@ Key highlights:
 2.	Collaborate with the stakeholders to understand their requirements and translated them into effective PowerBI solutions
 3.	Ardently involved in creating data model , implementing data transformation and calculations using DAX for accurate analysis and reporting   
 
-PBIX file Link:https://drive.google.com/file/d/139hoB1PdtclkUTW-Ty5RoqhIBlcKooEv/view?usp=sharing
+PBIX file Link:https://drive.google.com/file/d/18dceeKKv6ZK6rMvKPi2qW1a4NXxwSsIz/view?usp=sharing
 PDF Link:https://drive.google.com/file/d/1EkXl-LhvoDvpiFyBnL3HziJqfqAQLF2q/view?usp=sharing
-Canva :https://www.canva.com/design/DAF4F6Bnx9k/zDOHH3p445CJdTCh6O3h1A/edit?utm_content=DAF4F6Bnx9k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
